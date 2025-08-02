@@ -4,6 +4,10 @@ keys:
     port: 17292
     secret: aVMrPAPqzznyt1XIDHV72K
   - cipher: chacha20-ietf-poly1305
+    id: '2'
+    port: 17292
+    secret: qZid6K8NMW4cRZoqBUbbzU
+  - cipher: chacha20-ietf-poly1305
     id: '3'
     port: 17292
     secret: ZjFRHE9q3vp6u1WNq5lQzM
@@ -23,6 +27,10 @@ keys:
     id: '7'
     port: 17292
     secret: wwlhGZQ9I1sD76duAh4gzJ
+  - cipher: chacha20-ietf-poly1305
+    id: '8'
+    port: 17292
+    secret: GVHq0GMTHSbExNuwZFkivv
   - cipher: chacha20-ietf-poly1305
     id: '9'
     port: 17292
@@ -219,3 +227,7 @@ keys:
     id: '60'
     port: 17292
     secret: 50kooyPNg6Bkb21F9OtWSN
+  - cipher: chacha20-ietf-poly1305
+    id: '61'
+    port: 53227
+    secret: 1H8nnWYD7DjUT5AOBTqisd
