@@ -20,6 +20,10 @@ keys:
     port: 17292
     secret: VImbo2OavtkzaKgia3H7nI
   - cipher: chacha20-ietf-poly1305
+    id: '6'
+    port: 17292
+    secret: 5XbV6hIgCFkOVMypm3iAtb
+  - cipher: chacha20-ietf-poly1305
     id: '7'
     port: 17292
     secret: wwlhGZQ9I1sD76duAh4gzJ
@@ -243,3 +247,7 @@ keys:
     id: '62'
     port: 45577
     secret: 8hIzBeKPZoUkUhooKmEHEG
+  - cipher: chacha20-ietf-poly1305
+    id: '63'
+    port: 41824
+    secret: k97FoRzNV4LOOZZJW5p6xX
